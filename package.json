@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "meem": "git://github.com/stormboy/node-meem.git",
-    "lifx": "git://github.com/terrcin/lifxjs.git",
+    "lifx": "git://github.com/stormboy/lifxjs.git",
     "nedb": "*",
     "deeper": "*"
   },
